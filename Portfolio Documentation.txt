@@ -1,0 +1,15 @@
+My portfolio website serves as a showcase of my skills, projects, and experiences. 🌐
+
+Technologies Used
+-HTML: Used for structuring the content of the website.
+-CSS: Utilized for styling and designing the layout and appearance of the website.
+-JavaScript: Implemented for interactive elements and dynamic behavior.
+
+Challenges Faced
+-Project Integration: One of the challenges i faced was integrating existing projects into the portfolio website. This involved ensuring consistency in design, layout, and user experience across all projects.
+
+The project section consists on my 2 early projects which i made when i started making website.
+
+-Responsive Design: Ensuring the website is responsive across various devices and screen sizes was a significant challenge. This involved thorough testing and optimization to ensure a seamless experience for users accessing the website from different devices.
+
+Overall, the development of portfolio website involved overcoming various challenges related to design, development, optimization, and maintenance. By leveraging the appropriate technologies these challenges were addressed to create a high-quality, responsive, and accessible showcase of my skills and projects
